@@ -9,5 +9,6 @@ func Add(a, b int) int {
 }
 
 func main() {
+	//тут я написал комментарий для домашки
 	fmt.Println("Я домашка")
 }
